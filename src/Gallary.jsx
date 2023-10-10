@@ -41,7 +41,7 @@ const images = [
 
 export function Gallery() {
   const onInit = () => {
-    console.log("lightGallery has been initialized");
+      console.log("lightGallery has been initialized");
   };
   return (
     <div className="App">
