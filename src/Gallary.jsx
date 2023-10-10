@@ -37,7 +37,7 @@ const images = [
   { src: "./17.jpg", alt: "17" },
   { src: "./18.jpg", alt: "18" },
   { src: "./19.jpg", alt: "19" },
-];
+]; 
 
 export function Gallery() {
   const onInit = () => {
